@@ -60,3 +60,6 @@ Llevo desde que era adolescente trabajando con HTML, CSS, JavaScript y PHP, y ah
 
 ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordangomm&show_icons=true&count_private=true&theme=radical)
