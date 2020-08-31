@@ -16,11 +16,10 @@ I have been using HTML, CSS, JavaScript and PHP since I was a teenager, and in r
 
 #### Nice & Comfortable
 
-![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png) (WinForms) 
+![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png)
 
 #### Some experience, can get by with Google to hand
 
-![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png) (WPF)
 ![C](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png)
 ![C++](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png)
 
@@ -48,11 +47,10 @@ Llevo desde que era adolescente trabajando con HTML, CSS, JavaScript y PHP, y ah
 
 #### Bien cómodo
 
-![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png) (WinForms) 
+![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png)
 
 #### Algo de experiencia, dejame a mano Google y me apaño
 
-![C#](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png) (WPF)
 ![C](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png)
 ![C++](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png)
 
