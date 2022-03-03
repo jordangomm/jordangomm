@@ -3,7 +3,7 @@ Hi there :wave:
 
 My name is Jordan Gomm. I like to program as a hobby, and to make my life easier at work. My code is certainly not the prettiest, but it gets the job done (most of the time...).
 
-I have been using HTML, CSS, JavaScript and PHP since I was a teenager, and in recent years I have been working with C# and .NET Framework and am now transitioning to .NET Core.
+I have been using HTML, CSS, JavaScript and PHP since I was a teenager, and in recent years I have been working with C#, both with .NET Framework and now .NET 6.
 
 ## Programming Languages
 
@@ -32,9 +32,9 @@ I have been using HTML, CSS, JavaScript and PHP since I was a teenager, and in r
 ## Quien soy :es:
 Hola :wave:
 
-Soy Jordan Gomm y programo como hobby, y sobre todo para facilitarme la vida en el trabajo. Mi código no es más bonito, pero funciona (la mayoría de veces...).
+Soy Jordan Gomm y programo como hobby, y sobre todo para facilitarme la vida en el trabajo. Mi código no es el más bonito, pero funciona (la mayoría de veces...).
 
-Llevo desde que era adolescente trabajando con HTML, CSS, JavaScript y PHP, y ahora en los últimos años he empezado a trabajar C# con el .NET Framework y ahora estoy empezando a utilizar el .NET Core.
+Llevo desde que era adolescente trabajando con HTML, CSS, JavaScript y PHP, y ahora en los últimos años he estado trabajando con trabajar C#, tanto con el .NET Framework y ahora con .NET 6.
 
 ## Lenguajes de programación
 
